@@ -131,10 +131,3 @@ body{
 #contact input[type="submit"]:hover{
     background: rgb(44, 142, 120);
 }
-
-/*footer*/
-footer{
-    font-weight: 400;
-    text-align: center;
-    padding:20px ;
-}
